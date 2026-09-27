@@ -1,0 +1,11 @@
+Metric,Value
+N,26077.0
+Duration_hours,435.93944444444446
+Duration_days,18.164143518518518
+Median_interval_min,1.0
+Number_of_gaps,13.0
+Estimated_missing,86.0
+Estimated_missing_pct,0.32870848144325954
+Valid_consecutive_pairs,26057.0
+Longest_continuous_segment_N,7664.0
+Longest_continuous_segment_hours,127.71666666666667

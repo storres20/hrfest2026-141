@@ -1,0 +1,11 @@
+Metric,G1,G2
+Observations,26077.0,1686.0
+Chronological coverage (days),18.164143518518518,14.194328703703704
+Nominal acquisition interval (min),1.0,10.0
+Median observed interval (min),1.0,10.0
+Intervals within nominal regime (%),99.92713606381346,99.40652818991099
+Estimated missing observations (%),0.3287084814432596,17.67578125
+Number of acquisition gaps,13.0,5.0
+Mean temperature (°C),-30.581328373662615,-31.092170818505338
+Median temperature (°C),-30.5,-31.5
+Temperature SD (°C),0.6796281452025935,0.9722184410991281
